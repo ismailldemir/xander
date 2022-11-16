@@ -1,0 +1,24 @@
+body{
+    margin:2;
+    padding:0;
+    background-color: rgb(141, 106, 170);
+    background-size: cover;
+    background-image: url('https://i.pinimg.com/originals/e7/03/1a/e7031acca9a34bc69a460796feb5194d.jpg');
+    font-family: 'Sono', sans-serif;
+    text-align: justify;
+    
+    
+}
+h1,nav,h2{
+    text-align: center;
+}
+
+a{
+    color:rgb(151, 35, 35);
+}
+
+article{
+    margin:30px 500px;
+    font-style: italic;
+    font-weight: bold;
+}
